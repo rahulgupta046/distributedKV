@@ -1,0 +1,15 @@
+CLIENT:
+  PORT:
+    server1: 10004
+    server2: 10005
+    server3: 10006
+SERVER:
+  IP:
+    server1: 10.0.0.180
+    server2: 10.0.0.180
+    server3: 10.0.0.180
+  PORT:
+    server1: 10019
+    server2: 10018
+    server3: 10017
+model: causal
